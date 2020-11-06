@@ -1,0 +1,52 @@
+-Create a dummy website apopulate it with dummy data.  The websites's name should be Nova Business technologiess.  
+-The Client sent a very poor spec so go on youre own descresion.  
+
+
+-Clients spwec : CONTINUOUS ASSESSMENT ITEC301         (100 Marks)
+. Note: 
+•	Marks will be given according to your creativity design and functionality of the website.
+•	This continuous assessment will be submitted Monday on the 4th May 2020 at 16h30, submit only the website, not print screen. Late submission wont be tolerated.
+•	Same website or same continuous assessment will be disqualify.    
+
+Consider I am a business man and I am coming to you as web developer with my company profile to develop for me a website using HTML and CSS.
+Use the entire information that is my business profile called: NOVA BUSINESS TECHNOLOGY COMPANY PROFILE to design your own website, using your own creativity design.
+
+Remember:
+A website have number of pages, divers link, bacground,  font colour , images, form etc……..,  all  have to be apply here.
+
+
+Layout of the website.  
+ - 5 Web pages.  
+        - Home Page.
+        - Gallery.  
+        - Services.  
+        - Contact us.   
+        - About us.  
+
+  - Company.  Software company.  
+  - Theme for website = IT.  
+
+  1. Home page.  
+      This page will have an introduction.  
+      The name and Logo of the company.  
+      a Picture 
+      etc.              
+
+  2. Gallery.  
+      Pictures of previously completed projects.  
+
+  3.Services.  
+      an explanation of what the company does and what they offer.  
+
+  4.Contact us.  
+      Contact details etc.  
+
+  5.About us.  
+      Some inside information on what the company is and how we work.  
+
+
+      POA.  
+      Set up all 5 pages independintly and make sure they gud.  
+      Link them.  
+      Make sure active border works.  
+
